@@ -2,9 +2,7 @@
 cache
 .wireit
 .hugo_build.lock
-
 .python-version
-
 .venv
 .ruff_cache
 uv.lock
@@ -40,7 +38,6 @@ go.work
 
 ### Hugo ###
 # Generated files by hugo
-# /public/
 /resources/_gen/
 /assets/jsconfig.json
 hugo_stats.json
@@ -197,7 +194,7 @@ dist
 
 # Gatsby files
 .cache/
-public
+
 
 # vuepress build output
 .vuepress/dist
