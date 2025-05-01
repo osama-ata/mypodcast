@@ -9,6 +9,7 @@ cache
 .ruff_cache
 uv.lock
 pyproject.toml
+/pyscripts/
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/go,hugo,node,linux,macos,windows,phpstorm+all,visualstudiocode
@@ -39,7 +40,7 @@ go.work
 
 ### Hugo ###
 # Generated files by hugo
-/public/
+# /public/
 /resources/_gen/
 /assets/jsconfig.json
 hugo_stats.json

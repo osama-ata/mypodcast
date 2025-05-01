@@ -15,34 +15,19 @@
             <itunes:name>Osama Ata</itunes:name>
             <itunes:email>you@example.com</itunes:email>
         </itunes:owner>  <item>
-            <title>Episode 02</title>
-            <description>Add description</description>
-            <pubDate>Thu, 01 May 2025 11:41:58 &#43;03</pubDate>
-            <guid>https://podcast.osamata.com/episodes/s01-e02/</guid>
-            <enclosure url="https://URL.to/audio_file/s01-e02.mp3" type="audio/mpeg"
-                length="0" />
-            <itunes:duration>00:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:episode>2</itunes:episode>
-            <itunes:season>1</itunes:season>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:image href="https://URL.to/image_file/s01-e02.png" />
-            <itunes:summary>Add itunes_summary</itunes:summary>
-            <itunes:keywords></itunes:keywords>
-        </item>  <item>
-            <title>Episode 01</title>
-            <description>Add description</description>
-            <pubDate>Tue, 01 Apr 2025 11:45:19 &#43;03</pubDate>
+            <title>S01-E01 التسويق - مقدمة قصيرة جدًا</title>
+            <description>تقدم هذه الحلقة الطبيعة الأساسية للتسويق. نستكشف كيف أن التسويق موجود في كل مكان حولنا، ويتضمن أكثر بكثير من مجرد الإعلان أو البيع.</description>
+            <pubDate>Thu, 01 May 2025 11:45:19 &#43;03</pubDate>
             <guid>https://podcast.osamata.com/episodes/s01-e01/</guid>
-            <enclosure url="https://URL.to/audio/s01-e01.mp3" type="audio/mpeg"
+            <enclosure url="https://podcast.osamata.com/audio/s01-e01.mp3" type="audio/mpeg"
                 length="0" />
             <itunes:duration>00:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>1</itunes:episode>
             <itunes:season>1</itunes:season>
             <itunes:episodeType>full</itunes:episodeType>
-            <itunes:image href="https://URL.to/image_file/s01-e01.png" />
-            <itunes:summary>Add itunes_summary</itunes:summary>
-            <itunes:keywords></itunes:keywords>
+            <itunes:image href="https://podcast.osamata.com/images/s01-e01.png" />
+            <itunes:summary>تقدم هذه الحلقة الطبيعة الأساسية للتسويق. نستكشف كيف أن التسويق موجود في كل مكان حولنا، ويتضمن أكثر بكثير من مجرد الإعلان أو البيع.</itunes:summary>
+            <itunes:keywords>Marketing, التسويق, nature, definition, history, scope, customer, consumer, value, needs, wants, marketing mix, product, price, place, promotion, goods, services, B2B marketing, services marketing, customer-centric, evolution of marketing</itunes:keywords>
         </item>  </channel>
 </rss>

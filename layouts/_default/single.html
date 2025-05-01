@@ -8,6 +8,11 @@
 {{ $section := .Site.GetPage "section" .Section }}
 <article class="flex-l mw8 center ph3 flex-wrap justify-between" itemscope itemtype="http://schema.org/PodcastEpisode">
   <header class="mt4 w-100">
+    {{ if .Params.image }}
+    <figure>
+      <img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-100" itemprop="image">
+    </figure>
+    {{ end }}
     <aside class="instapaper_ignoref b helvetica tracked ttu">
       {{ .CurrentSection.Title }}
     </aside>
