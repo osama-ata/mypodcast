@@ -10,7 +10,7 @@ theme = 'ananke'
   email = "me@osamata.com"
   description = "This is Sam's podcast (SamPodca) about tech and AI."
   explicit = "no"
-  image = "https://podcast.osamata.com/logo.jpg"
+  site_logo = "https://podcast.osamata.com/logo.png"
   category = "Technology"
 
 [[menu.main]]
