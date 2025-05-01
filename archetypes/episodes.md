@@ -5,7 +5,7 @@ date: {{ .Date }}
 type: "episodes"
 description: "Add description"
 itunes_summary: "Add itunes_summary"
-audio_file: "https://podcast.osamata.com/audio/{{ .Name }}.mp3"
+audio_file: "https://audio.podcast.osamata.com/{{ .Name }}.mp3"
 audio_length: 0
 duration: "00:00"
 explicit: "no"
