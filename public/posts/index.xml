@@ -1,0 +1,48 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SamPodca</title>
+    <link>https://podcast.osamata.com/</link>
+    <language>en</language>
+    <description>This is Sam&#39;s podcast (SamPodca) about tech and AI.</description>
+    <itunes:author>Osama Ata</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image
+            href="https://podcast.osamata.com/logo.jpg" />
+    <itunes:category text="Technology" />
+    <itunes:owner>
+            <itunes:name>Osama Ata</itunes:name>
+            <itunes:email>you@example.com</itunes:email>
+        </itunes:owner>  <item>
+            <title>Episode 02</title>
+            <description>Add description</description>
+            <pubDate>Thu, 01 May 2025 11:41:58 &#43;03</pubDate>
+            <guid>https://podcast.osamata.com/episodes/s01-e02/</guid>
+            <enclosure url="https://URL.to/audio_file/s01-e02.mp3" type="audio/mpeg"
+                length="0" />
+            <itunes:duration>00:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:episode>2</itunes:episode>
+            <itunes:season>1</itunes:season>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:image href="https://URL.to/image_file/s01-e02.png" />
+            <itunes:summary>Add itunes_summary</itunes:summary>
+            <itunes:keywords></itunes:keywords>
+        </item>  <item>
+            <title>Episode 01</title>
+            <description>Add description</description>
+            <pubDate>Tue, 01 Apr 2025 11:45:19 &#43;03</pubDate>
+            <guid>https://podcast.osamata.com/episodes/s01-e01/</guid>
+            <enclosure url="https://URL.to/audio_file/s01-e01.mp3" type="audio/mpeg"
+                length="0" />
+            <itunes:duration>00:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:episode>1</itunes:episode>
+            <itunes:season>1</itunes:season>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:image href="https://URL.to/image_file/s01-e01.png" />
+            <itunes:summary>Add itunes_summary</itunes:summary>
+            <itunes:keywords></itunes:keywords>
+        </item>  </channel>
+</rss>

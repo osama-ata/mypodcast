@@ -1,0 +1,30 @@
+.
+├── archetypes
+│   ├── default.md
+│   └── episodes.md
+├── assets
+├── content
+│   ├── about.md
+│   ├── contact.md
+│   ├── episodes
+│   │   ├── s01-e01.md
+│   │   └── s01-e02.md
+│   └── posts
+│       └── my-first-post.md
+├── data
+│   └── apple-specs.md
+├── hugo.toml
+├── i18n
+├── layouts
+│   └── _default
+│       └── rss.xml
+
+├── static
+│   ├── audio
+│   │   └── s01-e01.mp3
+│   ├── favicon
+│   └── images
+├── themes
+│   
+└── tree.txt
+

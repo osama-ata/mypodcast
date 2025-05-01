@@ -1,0 +1,34 @@
+baseURL = "https://podcast.osamata.com/"
+title = "SamPodca"
+languageCode = "en-us"
+theme = 'ananke'
+
+
+[params]
+  title = "SamPodca"
+  author = "Osama Ata"
+  email = "you@example.com"
+  description = "This is Sam's podcast (SamPodca) about tech and AI."
+  explicit = "no"
+  image = "https://podcast.osamata.com/logo.jpg"
+  category = "Technology"
+
+[[menu.main]]
+  name = "Episodes"
+  url = "/episodes/"
+  weight = 1
+
+[[menu.main]]
+  name = "Blog"
+  url = "/posts/"
+  weight = 2
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 3
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 4
