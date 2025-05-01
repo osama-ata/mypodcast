@@ -7,7 +7,7 @@ theme = 'ananke'
 [params]
   title = "SamPodca"
   author = "Osama Ata"
-  email = "you@example.com"
+  email = "me@osamata.com"
   description = "This is Sam's podcast (SamPodca) about tech and AI."
   explicit = "no"
   image = "https://podcast.osamata.com/logo.jpg"
