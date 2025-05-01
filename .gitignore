@@ -3,6 +3,14 @@ cache
 .wireit
 .hugo_build.lock
 
+.python-version
+
+.venv
+.ruff_cache
+uv.lock
+pyproject.toml
+
+
 # Created by https://www.toptal.com/developers/gitignore/api/go,hugo,node,linux,macos,windows,phpstorm+all,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=go,hugo,node,linux,macos,windows,phpstorm+all,visualstudiocode
 
